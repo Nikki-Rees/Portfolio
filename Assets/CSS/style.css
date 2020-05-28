@@ -1,0 +1,29 @@
+* {
+    Box-sizing: border-box;
+}
+
+body {
+ font-size: 16px;
+}
+
+header {
+    margin: auto;
+    align-content: stretch;
+
+}
+
+main {
+    margin: 5px;
+}
+
+section {
+    padding: 20px;
+    width: 100%;
+    align-content: top;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .container {
+        width: 100%;
+        padding: 20px;}
