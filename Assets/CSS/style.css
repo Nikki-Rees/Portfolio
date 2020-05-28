@@ -62,7 +62,7 @@ section {
     text-align: stretch;
 }
 
-#footer-nav{
+.footer-nav{
     color: rgba(236, 218, 218, 0.933);
     padding: 20px;
     margin-top: 10px;
