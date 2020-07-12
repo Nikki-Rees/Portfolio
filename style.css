@@ -1,5 +1,9 @@
+/* font-family: 'Karla', sans-serif;
+font-family: 'Lexend Mega', sans-serif; */
+
 * {
     box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
 }
 
 body {
@@ -30,6 +34,7 @@ nav .line{
     margin: 10px; 
     margin-top: 10px;
     padding: 10px;
+    background-image: ".Assets/iMac_in_home_office-web-design.jpg";
 }
 
 h1{
