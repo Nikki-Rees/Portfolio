@@ -1,6 +1,10 @@
 # Portfolio
+
+https://nikki-rees.github.io/Portfolio/
+
 Responsive bootstrap portfolio website to provide employers with examples of my project work.
-Included media queries to make website responsive to smaller screen sizes
+
+My code includes media queries to make website responsive to smaller screen sizes
 Used Bootstrap nav bar, form and card elements
 Used validator.w3.org/ to validate mark up
 
