@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
 }
 
 body {
@@ -27,9 +28,13 @@ nav .line{
 /* .navbar-expand{-sm|-md|-lg|-xl} */
 
 .container {
-    margin: 10px; 
+    margin: 5px; 
     margin-top: 10px;
-    padding: 10px;
+    padding: 5px;
+}
+
+#contact-details {
+font-family: 'Karla', sans-serif;
 }
 
 h1{
@@ -39,6 +44,11 @@ p{
     text-align: left;
 }
 
+a {
+    font-family: 'Karla', sans-serif;
+    
+}
+
 section {
     padding: 20px;
     width: 100%;
@@ -46,17 +56,20 @@ section {
 }
 .btn-primary {
     color: #fff;
-    background-color: #b56357;
-    border-color: #b56357;
+    background-color: #606C38;
+    border-color: #606C38;
 }
 
+.img-fluid{
+    max-width: 100%;
+}
 .footer {
     position: fixed;
     margin-top: auto;
     padding: 10px;
     left: 0;
     bottom: 0;
-    background-color: #b56357;
+    background-color: #606C38;
     width: 100%;
     color: rgb(221, 221, 221);
     text-align: stretch;
