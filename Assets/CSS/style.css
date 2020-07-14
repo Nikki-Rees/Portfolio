@@ -30,7 +30,7 @@ nav .line{
 .container {
     margin: 5px; 
     margin-top: 10px;
-    padding: 5px;
+    padding: 10px;
 }
 
 #contact-details {
@@ -49,6 +49,7 @@ a {
     
 }
 
+main,
 section {
     padding: 20px;
     width: 100%;
